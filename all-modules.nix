@@ -12,6 +12,7 @@
     ./modules/nixosConfigurations.nix
     ./modules/nixosModules.nix
     ./modules/nixpkgs.nix
+    ./modules/nixpkgsCross.nix
     ./modules/overlays.nix
     ./modules/packages.nix
     ./modules/perSystem.nix
